@@ -1,0 +1,21 @@
+body
+{
+       background-color: antiquewhite;
+       position: relative;
+}
+
+
+.logo_img
+{  
+       size: 10px;
+       border-radius: 100%;
+}
+
+.webcam
+{
+       height: 230px;
+}
+.result
+{
+       left: 100px;
+}
